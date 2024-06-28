@@ -1,0 +1,70 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.colorpanel {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+div .redblock {
+    background-color: crimson;
+    display: inline-block;
+    margin: 15px;
+    height: 80px;
+    width: 100px;
+    text-align: center;
+}
+
+div .colorpanelwh {
+    background-color: floralwhite;
+    display: inline-block;
+    margin: 15px;
+    height: 80px;
+    width: 100px;
+    text-align: center;
+    }
+    
+
+div .colorpanelbl {
+    background-color: lightblue;
+    display: inline-block;
+    margin: 15px;
+    height: 80px;
+    width: 100px;
+    text-align: center;
+        }
+
+    .playnoraml {
+        font-family: Playwrite NG Modern;
+    }
+
+    .playbold {
+        font-family: Playwrite NG Modern;
+        font-weight: bold;
+    }
+
+    .playitalic {
+        font-family: Playwrite NG Modern;
+        font-style: italic;
+    }
+
+    .playwritefont {
+        font-family: Playwrite NG Modern;
+        text-decoration: underline;
+    }
+
+    .fonts {
+        border-style: solid;
+        border-width: 2px;
+        border-color: black;
+        margin-top: 10px;
+    }
+
+    .textstyles {
+        border-style: solid;
+        border-width: 2px;
+        border-color: black;
+        margin-top: 10px;
+    }
