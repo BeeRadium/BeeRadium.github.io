@@ -1,0 +1,45 @@
+* {
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  z-index: 1;
+  position: relative;
+  top: 25px;
+}
+
+.bannerimg {
+  width: 97%;
+  height: 175px;
+  z-index: 0;
+  display: block;
+  position: absolute;
+  align-items: center;
+  }
+
+h2 {
+color: white;
+font-size: 32px;
+font-weight: bold;
+}
+
+.brushtitle {
+background-color: mediumspringgreen;
+}
+
+.framestitle {
+background-color: lightcoral;
+}
+
+.painttitle {
+background-color: skyblue;
+}
+
+strong {
+font-weight: bold;
+color: blue;
+}
